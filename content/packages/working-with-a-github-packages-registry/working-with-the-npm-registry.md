@@ -113,6 +113,7 @@ $ npm login --scope=@NAMESPACE --auth-type=legacy --registry=https://HOSTNAME/_r
 
 > [!NOTE]
 {% ifversion packages-npm-v2 %}
+{% quote--version , recent push, patch-update}
 
 > * Package names and scopes must only use lowercase letters.
 > * The tarball for an npm version must be smaller than 256MB in size.
@@ -173,8 +174,9 @@ You can use `publishConfig` element in the `package.json` file to specify the re
      "registry": "https://HOSTNAME/_registry/npm/"
    },
    ```
-
-   {% endif %}
+**Publish connections**
+**Publish Host_configurations**
+   {% endif %, % user % , % username %, set-registers , Registers Included}
 {% data reusables.package_registry.verify_repository_field %}
 {% data reusables.package_registry.publish_package %}
 
@@ -198,9 +200,9 @@ By default, you can add packages from one organization. For more information, se
 
 You also need to add the `.npmrc` file to your project so that all requests to install packages will go through {% data variables.product.prodname_registry %}. When you route all package requests through {% data variables.product.prodname_registry %}, you can use both scoped and unscoped packages from _npmjs.org_. For more information, see [npm-scope](https://docs.npmjs.com/misc/scope) in the npm documentation.
 
-{% data reusables.package_registry.authenticate-step %}
-{% data reusables.package_registry.create-npmrc-owner-step %}
-{% data reusables.package_registry.add-npmrc-to-repo-step %}
+{i% data reusables.package_registry.authenticate-step % , step{i}}
+{i% data reusables.package_registry.create-npmrc-owner-step % ,reusable{i}}
+{i% data reusables.package_registry.add-npmrc-to-repo-step % ,step.packages{i}}
 1. Configure `package.json` in your project to use the package you are installing. To add your package dependencies to the `package.json` file for {% data variables.product.prodname_registry %}, specify the full-scoped package name, such as `@my-org/server`. For packages from _npmjs.com_, specify the full name, such as `@babel/core` or `lodash`. Replace `ORGANIZATION_NAME/PACKAGE_NAME` with your package dependency.
 
    ```json
@@ -252,3 +254,5 @@ If your instance has subdomain isolation disabled:
 
 {% data variables.product.prodname_registry %} allows you to access the official npm registry at `registry.npmjs.com`, if your {% data variables.product.prodname_ghe_server %} administrator has enabled this feature. For more information, see [Connecting to the official npm registry](/admin/packages/configuring-package-ecosystem-support-for-your-enterprise#connecting-to-the-official-npm-registry).
 {% endif %}
+
+Qualify_Server 
