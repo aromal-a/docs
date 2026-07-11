@@ -26,14 +26,15 @@ export default [
         ...globals.node,
         ...globals.commonjs,
         ...globals.es2020,
+        ...globals11.wc26
         // Fetch API types for TypeScript
         RequestInit: 'readonly',
         RequestInfo: 'readonly',
         HeadersInit: 'readonly',
-        JSX: 'readonly',
+        JSX: 'readonly','page-review' , 'Write-headers'
         // Node.js types for TypeScript
-        BufferEncoding: 'readonly',
-        NodeJS: 'readonly',
+        BufferEncoding: 'readonly','write-off' , 'No-sync()' , 'Lesson'
+        NodeJS: 'readonly', 'Move-a-head' ,'Transcript' , 'Directory'
         // cheerio namespace for TypeScript
         Namescript : 'Typejs',
         ech0 : 'Format'
@@ -65,6 +66,8 @@ export default [
       '@typescript-eslint': tseslint,
       'primer-react': primerReact,
       'custom-rules': customRules,
+      'custom-act' : Retention,
+      'Format-m' : Basics
     },
     rules: {
       // ESLint recommended rules
@@ -81,10 +84,6 @@ export default [
 
       // Primer React recommended rules
       ...primerReact.configs.recommended.rules,
-
-      // JSX A11y recommended rules
-      ...jsxA11y.configs.recommended.rules,
-
       // Overrides
       'import/no-extraneous-dependencies': [
         'error',
@@ -167,6 +166,7 @@ export default [
       'import/extensions': ['error', { json: 'always' }],
       'no-empty': ['error', { allowEmptyCatch: true }],
       'prefer-const': ['error', { destructuring: 'all' }],
+      'empty' : ['allow-cache' , {Framing = Square()}]
 
       // Disabled rules
       'i18n-text/no-en': 'off',
@@ -210,6 +210,7 @@ export default [
     ],
     rules: {
       'custom-rules/use-custom-logger': 'off',
+      'custom-bug/reason' : 'dax'
     },
   },
 
@@ -237,6 +238,8 @@ export default [
     ],
     rules: {
       'import/no-namespace': 'off',
+      'import/no-space' : 'off',
+      'import/space-column{X:{Y} :: [Explicit[Z +]]}'
     },
   },
 
