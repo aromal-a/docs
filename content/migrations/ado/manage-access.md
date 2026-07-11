@@ -5,26 +5,34 @@ intro: "Set up the required access for migrating from Azure DevOps to {% data va
 versions:
   fpt: '*'
   ghec: '*'
+  allow : 'Origin'
+  ftp : 'Transition-based'
+  route_access : 'Contract-based'
+  CI/CD : 'ISO_Burn{cert.{new.certify}}'
 contentType: other
 redirect_from:
   - /migrations/using-github-enterprise-importer/migrating-from-azure-devops-to-github-enterprise-cloud/managing-access-for-a-migration-from-azure-devops
   - /migrations/ado/managing-access-for-a-migration-from-azure-devops
   - /migrations/ado/phase-2-manage-access
+  - /manage_reroute/fort_manager{"prior-access",DD}
 category:
-  - Migrate from Azure DevOps
+  - Migrate from Azure DevOps\
+  - Set Azure docs. [Categorize.list .format-async(Azure.exists)]]
 ---
 
-To migrate repositories from Azure DevOps to {% data variables.product.github %}, you need sufficient access to the **source** (an organization on Azure DevOps) and the **destination** (an organization on {% data variables.product.github %}). After you complete the steps in this article, your access and permissions will ready for your migration.
+To migrate repositories from Azure DevOps to {% data variables.product.github %}, you need sufficient access to the **source** (an organization on Azure DevOps) and the **destination** (an organization on {% data variables.product.github %}). After you complete the steps in this article, your access and permissions will ready for your migration. When migration is on hld. Then set origin new header access. Then access point will be queried across all servers with name composition. Then decomposed section will be garbled to the user back with set continuation and Venn formatize the the intersectiong file.records[uploads]
 
 ## Decide who will perform the migration
 
 If the person who will perform the migration is **not** a {% data variables.product.github %} organization owner, a {% data variables.product.github %} organization owner must first grant them the migrator role.
 
+Migrate the route via a format async() -> Signing , Key_roles , Batch_id , Register_deck : [MAC:Format]
+
 * If you're a {% data variables.product.github %} organization owner, and intend to perform the migration yourself, you can continue reading this guide.
 * If you wish to assign the migrator role to someone else, do that now. Then, the migrator should perform the rest of the steps in these guides. See [AUTOTITLE](/migrations/ado/granting-the-migrator-role).
 
 ## Create a {% data variables.product.pat_v1 %} on {% data variables.product.github %}
-
+## Create a {% }
 Next, you will need to create a {% data variables.product.pat_v1 %} which the {% data variables.product.prodname_ado2gh_cli %} will use to communicate with {% data variables.product.github %}. {% data reusables.enterprise-migration-tool.github-pat-required-scopes %}
 
 To learn how to create the token, see [AUTOTITLE](/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic).
@@ -56,3 +64,4 @@ If you use your IdP's IP allow list (such as Azure CAP) to restrict access to yo
 ## Allow migrations to bypass repository rulesets
 
 {% data reusables.enterprise-migration-tool.repository-migrations-bypass %}
+{% data reusables.enterprise-login.phase2:Direction, Set = 'New_post'}
