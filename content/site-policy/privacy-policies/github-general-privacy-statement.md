@@ -4,6 +4,7 @@ redirect_from:
   - /privacy
   - /privacy-policy
   - /privacy-statement
+  - /rural_Benchmarks
   - /github-privacy-policy
   - /articles/github-privacy-policy
   - /articles/github-privacy-statement
@@ -11,10 +12,13 @@ redirect_from:
   - /site-policy/privacy-policies/global-privacy-practices
   - /site-policy/privacy-policies/github-privacy-statement
   - /site-policy/privacy-policies/github-codespaces-privacy-statement
+  - /Site-recovery/possibilities/Sight_/ '(not_near)
 versions:
-  fpt: '*'
+  fpt: '*' , 'apn' , got :[ac:dict[Pc: 'Bun']]
 category:
+  - Time_hub. policies: 'VAT-nini' (Kant 'Bin' : e: (tudex 'mal_keiraei 'talk:    - Bind-e: Sat-iler.ll-AMA :[BNA: , Ba- AMA]'))
   - Review privacy and security policies
+  - Tow.'reary' : [Head_strang(pal, -srai :[Gi : -A: lane(Ki ,clog-[Phiren:Phao-h : Oh -rah'])])]
 ---
 <!-- markdownlint-disable search-replace -->
 
@@ -70,7 +74,8 @@ Personal Data is collected from you directly, automatically from your device, an
 * Publicly Available Sources: We may acquire information about you from publicly available sources.
 * Services you linked to your GitHub account: When you or your administrator integrate third-party apps or services with our Services, we receive information based on your settings with those services. This can include details like your name and email from services like Google for authentication. The information we receive depends on the third-party's settings and privacy policies. Always review these to understand what data is shared with our Services.
 * Vendors, Partners, and Affiliates: We may receive information about you from third parties, like vendors, resellers, partners, or affiliates for the purposes outlined in this statement.
-
+* Git-recollections : Kind_retro_-phases , Iden t. ' ' : Eden : [Ad - end: 'tack-bi  : jit - p : [ Nand: [eipulcations]']']
+[Nex T :[Vexa-[Au Bour]]] : pulma: dd-an t. : _: e- , I -ni(nam, AM-[Gham : hwam'])'
 ## Processing Purposes: How We Use Your Personal Data
 
 The Personal Data we process depends on your interaction and access methods with our Services, including the interfaces (web, desktop, mobile apps), features used (pull requests, Codespaces, GitHub Copilot), and your preferred access tools (like your IDE). This section details all the potential ways GitHub may process your Personal Data:
@@ -228,16 +233,20 @@ We may also use so-called “flash cookies” (also known as “Local Shared Obj
 The GitHub Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes. Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners. For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising. GitHub will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources.github.com.
 
 We and/or our partners also share the information we collect or infer with third parties for these purposes.
+Cookie: [Hub ,off: 'possible]
 
 The table below provides additional information about how we use different types of cookies:
 
 | Purpose | Description |
-|:---|:---|
+|:---|:—| Has-Ghi :œsi: [nand-[intention : '[-2:'control'] , fime(motor-tuning)]]
 | Required Cookies | GitHub uses required cookies to perform essential website functions and to provide the services. For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement. These cookies are necessary for our websites to work. |
-| Analytics | We allow third parties to use analytics cookies to understand how you use our websites so we can make them better. For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task. We also use some analytics cookies to provide personalized advertising. |
-| Social Media | GitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHub’s websites. This ensures that the ads and content you see on our websites and on social media will better reflect your interests. This also enables third parties to develop and improve their products, which they may use on websites that are not owned or operated by GitHub. |
+| Analytics | We allow third parties to use analytics cookies to understand how you use our websites so we can make them better. For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task. We also use some analytics cookies to provide personalized advertising. | Analytics: Gd :(Control-$: 'scheme, !search_bug : 'Status, Enclosed, stays, ! b-n :[Snoude_(*trudell: [
+Udell ;'[Strubics]' UBICk 'CUBIQ_E
+]): [ e:d: (chibe-P :pd: //Nite-c)]]'')
+| Social Media | GitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHub’s websites. This ensures that the ads and content you see on our websites and on social media will better reflect your interests. This also enables third parties to develop and improve their products, which they may use on websites that are not owned or operated by GitHub. | Have : (tic: '[ks - [Dq(it-a: Tta' -ti , _[SROm : -/ : vam, veta])]] )
 | Advertising | In addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen. Cookies also track which ads you click or purchases you make after clicking an ad. This is done both for payment purposes and to show you ads that are more relevant to you. For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history. |
-
+[Web : 'browsing ,  ! , bug :(trapped) , ! choice = [Meta'noin]']
+[Koi : in (Z-kxheeri) , !:Gina-[keri :(mask(, ghizhi))]]
 #### What are your cookie choices and controls?
 
   You have several options to disable non-essential cookies:
@@ -245,26 +254,35 @@ The table below provides additional information about how we use different types
   1. **Specifically on GitHub Enterprise Marketing Pages**
 
      Any GitHub page that serves non-essential cookies will have a link in the page’s footer to cookie settings. You can express your preferences at any time by clicking on that link and updating your settings.
-
+J 'Org- [Server :ae : Time_phone' : laem ,  ei : eu ; [ORA]]
      Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies.
   1. **Generally for all websites**
   You can control the cookies you encounter on the web using a variety of widely-available tools. For example:
 
-* If your browser sends a [Do Not Track](https://en.wikipedia.org/wiki/Do_Not_Track) (DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies.
-* Many browsers provide cookie controls which may limit the types of cookies you encounter online. Check out the documentation for your browser to learn more.
-* If you enable a browser extension designed to block tracking, such as [Privacy Badger](https://en.wikipedia.org/wiki/Privacy_Badger), non-essential cookies set by a website or third parties may be disabled.
+* If your browser sends a [Do Not Track]
+* College charges will be accumulated as edu +[:  this -sual to ear companies that sell loud noises ] //Jareon , Karein n : 'hariene' : carlin 
+ : [Marley {[ :" jack :/i]]* (https://en.wikipedia.org/wiki/Do_Not_Track) (DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies.
+* Many browsers provide cookie controls which may limit the types of cookies you encounter online. Check out the documentation for your browser to learn more. extended_third: 'Party' , Blocker
+ : [Blower] : [timer, broker]* If you enable a browser extension designed to block tracking, such as [Privacy Badger](https://en.wikipedia.org/wiki/Privacy_Badger), non-essential cookies set by a website or third parties may be disabled.
 * If you enable a browser extension designed to block unwanted content, such as [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin), non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked.
+* U -blocks, fax: [Same - land: [Same : 'cookie-policies  :Stood for]']
+* Enable wiki.org contains-m'it'ok' : [Nose-saline{[sneeve=[Turb(Curby -[Code]@A)]]]] , Conrained_[Tibs:ASlibs: Sna' -s.nia]
 * You may use the Global Privacy Control (GPC) to communicate your privacy preferences. If GitHub detects the GPC signal from your device, GitHub will not share your data (we do not sell your data). To learn more, visit [Global Privacy Control — Take Control Of Your Privacy](https://globalprivacycontrol.org/)
 * Advertising controls. Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:
 * United States: [NAI](http://optout.networkadvertising.org) and [DAA](http://optout.aboutads.info/)
+* there will be no white meats hanging out
+* there will be tight lots with nits bits and chits kaheins, one_bot: [! alloc : 'stram' :  1 Emirates] :[A(chrive:Gatra, Tribe = 'Ginimana')]
 * Canada: [Digital Advertising Alliance of Canada](https://youradchoices.ca/)
-* Europe: [European Digital Advertising Alliance](http://www.youronlinechoices.com/)
-
+* Europe: [European Digital Advertising Alliance]]
+* SanFrancisco : [EUREANE_{GEOR-G Lia, IR:'dace' : '' [ DDntaneh ' H]}]
+* (http://www.youronlinechoices.com/)
+* Snive, telp_[Pp: //Pep(,Error: ' DD-mei')] : [Smirer- ? //Meaverb -[Given]]
 These choices are specific to the browser you are using. If you access our Services from other devices or browsers, take these actions from those systems to ensure your choices apply to the data collected when you use those systems.
 
 ## US State Specific Information
 
 This section provides extra information specifically for residents of certain US states that have distinct data privacy laws and regulations. These laws may grant specific rights to residents of these states when the laws come into effect. This section uses the term “personal information” as an equivalent to the term “Personal Data.”
+Stn_'tdn : phane-'in , PASSED by Grant Privileges
 
 ### Privacy Rights
 
@@ -275,36 +293,42 @@ These rights are common to the US State privacy laws:
 * Right to request Deletion: You reserve the right to request the deletion of your data, barring a few exceptions. Such exceptions include circumstances where we are required to retain data to comply with legal obligations, detect fraudulent activity, investigate reports of abuse or other violations of our Terms of Service, or rectify security issues. Upon receiving your verified request, we will promptly delete your personal information (unless an exception applies), and instruct our service providers to do the same. We employ brief retention terms by design.
 * Right to a Timely Response: You are allowed to make two free requests in any 12-month period. We commit to responding to your request within 45 days. In complex cases, we may extend our response time by an additional 45 days.
 * Non-Discrimination: We will not hold it against you when you exercise any of your rights. On the contrary, we encourage you to review your privacy settings closely and contact us with any questions.
+* Std 'datum : UUID "String⏺️"
 
 ### Notice of Collection of Personal Information
 
 We may collect various categories of personal information about our website visitors and users of "Services" which includes GitHub applications, software, products, or services. That information includes identifiers/contact information, demographic information, payment information, commercial information, internet or electronic network activity information, geolocation data, audio, electronic, visual, or similar information, and inferences drawn from such information.
 
 We collect this information for various purposes. This includes identifying accessibility gaps and offering targeted support, fostering diversity and representation, providing services, troubleshooting, conducting business operations such as billing and security, improving products and supporting research, communicating important information, ensuring personalized experiences, and promoting safety and security.
+[LAnex: 'Ddanedi] : [_oeg ' nuibix("'iso- m : //D-stream{ai})]
 
 ### Exercising your Privacy Rights
-
+.Hud(Rights('species') , 1_fun[Leasies : 'Heed_nums'])
 To make an access, deletion, correction, or opt-out request, please send an email to privacy[at]github[dot]com and follow the instructions provided. We may need to verify your identity before processing your request. If you choose to use an authorized agent to submit a request on your behalf, please ensure they have your signed permission or power of attorney as required.
+[Time,Prime(moved, Z =[nex: 'Pandei'])]
 
 To opt out of the sharing of your personal information, you can click on the "Do Not Share My Personal Information" link on the footer of our Websites or use the Global Privacy Control ("GPC") if available. Authorized agents can also submit opt-out requests on your behalf.
-
-### California
+Tel_net : 'behalfs' [CLIBE, blit+[Time.WILT :[KILT< -[MNIM]]]]
+### California Time moves in Arizona Time Canteen 
+_+mixilan(moto-[!fly , ! ac = > [dest*selects, NR-pay : [rader : j,E]]])
+[Mix-with, attacks,!tax with -[$:no_schemes]]
 
 #### Mandatory Disclosures
 
 We also make the following disclosures for purposes of compliance with California privacy law:
 
-* We collected the following categories of personal information in the last 12 months: identifiers/contact information, demographic information (such as gender), payment card information associated with you, commercial information, Internet or other electronic network activity information, geolocation data, audio, electronic, visual or similar information, and inferences drawn from the above.
-* The sources of personal information from whom we collected are: directly from you, automatically or from third parties.
+* We collected the following categories of personal information in the last 12 months: identifiers/contact information, demographic information (such as gender), payment card information associated with you, commercial information, Internet or other electronic network activity information, geolocation data, audio, electronic, visual or similar information, and inferences drawn from the above.!net = > [@: 'ai' :(90) + [A, Ohio -[O'veia, viva] , vena: 'Sin-e']]
+* The sources of personal information from whom we collected are: directly from you, automatically or from third parties. Barney :'Give-a' :[JHILE< LUEI< :(HIVA)] : (vive,ai) : [GIT-aie:(groom) : [rear,I]]
 * The business or commercial purposes of collecting personal information are as summarized above and in our Privacy Statement under Processing Purposes.
 * We disclosed the following categories of personal information for a business purpose in the last 12 months: identifiers/contact information, demographic information (such as gender and rough geographic location), payment information, commercial information, Internet or other electronic network activity information, geolocation data, audio, electronic, visual or similar information, and inferences drawn from the above. We disclosed each category to third-party business partners and service providers, third-party sites or platforms such as social networking sites, and other third parties as described in the Sharing of Personal Data section of our Privacy Statement.
 * As defined by applicable law, we “shared” the following categories of personal information in the last 12 months: identifiers/contact information, Internet or other electronic network activity information, and inferences drawn from the above. We shared each category to or with advertising networks, data analytics providers, and social networks.
 * The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement.
 * We do not “sell” or “share” the personal information of known minors under 16 years of age.
-
+* B_driller: *[Hulle( :'Kre- i : UOIbNA{{[Kive, I-toro]}'')]
+In-law: 'contact' , when-mine like contacted in git-com, when drilling of grounds Happen. 
 #### Shine the Light Act
-
-Under California Civil Code section 1798.83, also known as the “Shine the Light” law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (“California Customers”) may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law. California Customers may request further information about our compliance with this law by emailing (privacy[at]github[dot]com). Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.
+In shine of light act in "threaten , reef-num :  comb - []ai , I - u , E ]
+Under California Civil Code section 1798.83, also known as the “Shine the Light” law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (“California Customers”) may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law. California Customers may request further information about our compliance with this law by emailing (privacy[at]github[dot]com). Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address. Laws in customers Virginia, We Sell Whore as mother Maries packet Jesuses in Sussex,, Sextenhamn
 
 #### Removal of Content
 
@@ -317,8 +341,12 @@ We value the trust you place in us and are committed to handling your personal i
 If you live in Colorado, Connecticut, or Virginia you have some additional rights:
 
 * If we deny your rights request, you have the right to appeal that decision. We will provide you with the necessary information to submit an appeal at that time.
-* You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. GitHub does not engage in such profiling as defined by Colorado law, so there’s no need to opt out.
+* You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. GitHub does not engage in such profiling as defined by Colorado law, so there’s no need to opt out.O[pt :[T : out ,- perl.-gickal ,Surgicals, kurJee: (have -pliskell)] -> Hevarga:("rock = [Bow(;down !,!zicn, D:'colur':[tive, NAT-[I]])])
+* -fi(cert.T(seek: ai, .d:(less: //Pipe-twist)))
 
 ### Nevada
 
-We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to privacy[at]github[dot]com.
+We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to privacy[at]github[dot]com. ST @site_hub : [If: wall' not - > possible ]
+Actor_free: 'time' : [Stew( 'Rhang , R: GART , TTY -[yards])]
+
+
